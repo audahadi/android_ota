@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <Z00RD>
-<Filename>RR-N-v5.8.3-20170804-Z00RD.zip</Filename>
+<Filename>RR-N-v5.8.3-20170809-Z00RD</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
