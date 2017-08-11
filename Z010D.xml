@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <Z010D>
-<Filename>RR-N-v5.8.3-20170808-Z010D</Filename>
+<Filename>RR-N-v5.8.4-20170811-Z010D</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">https://www.androidfilehost.com/?w=files&amp;flid=142627</LatestBuildUrl>
+  description="Download Latest Build">https://sourceforge.net/p/android-rom-ota/code/ci/resurrection/tree/Zenfone_Max_ZC550KL/RR-N-v5.8.4-20170811-Z010D.zip?format=raw</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
