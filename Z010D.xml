@@ -6,7 +6,7 @@
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">https://sourceforge.net/p/android-rom-ota/code/ci/resurrection/tree/Zenfone_Max_ZC550KL/RR-N-v5.8.4-20170811-Z010D.zip?format=raw</LatestBuildUrl>
+description="Download Latest Build">https://sourceforge.net/p/android-rom-ota/code/ci/resurrection/tree/Zenfone_Max_ZC550KL/RR-N-v5.8.4-20170811-Z010D.zip?format=raw</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
