@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <Z00ED>
-<Filename>RR-N-v5.8.4-20170811-Z00ED</Filename>
+<Filename>RR-N-v5.8.4-20170819-Z00ED</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">https://sourceforge.net/p/android-rom-ota/code/ci/resurrection/tree/Zenfone_2_Laser_ZE500KL/RR-N-v5.8.4-20170811-Z00ED.zip?format=raw</LatestBuildUrl>
+description="Download Latest Build">https://sourceforge.net/projects/android-rom-ota/files/ResurrectionRemix/Zenfone_2_Laser_ZE500KL/RR-N-v5.8.4-20170819-Z00ED.zip/download</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
