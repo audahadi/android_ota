@@ -2,8 +2,8 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <Z010D>
-<Filename>14.1-20170824-UNOFFICIAL-Z010D</Filename>
-<RomUrl id="rom" title="Download ROM">https://sourceforge.net/projects/android-rom-ota/files/LineageOS/Zenfone_Max_ZC550KL/lineage-14.1-20170824-UNOFFICIAL-Z010D.zip/download</RomUrl>
+<Filename>*Z010D</Filename>
+<RomUrl id="rom" title="Download ROM">https://sourceforge.net/projects/android-rom-ota/files/LineageOS/Zenfone_Max_ZC550KL/lineage-*.zip/download</RomUrl>
 <ChangelogUrl id="changelog" title="Changelog" description="Nougat">https://www.lineageoslog.com/14.1</ChangelogUrl>
 <BeansGappsFullUrl id="beans-gapps-full" title="Beans GApps Full" description="25/07/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120751459</BeansGappsFullUrl>
 <BeansGappsMiniUrl id="beans-gapps-mini" title="Beans GApps Mini" description="09/05/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=889764386195918677</BeansGappsMiniUrl>
