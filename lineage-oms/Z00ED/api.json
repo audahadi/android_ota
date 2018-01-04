@@ -1,10 +1,10 @@
 {
     "response": [
     {
-      "filename": "lineage-14.1-20171207_044052-UNOFFICIAL-Z00ED",
-      "url": "https://sourceforge.net/projects/android-rom-ota/files/LineageOS-OMS/Z00ED/lineage-14.1-20171207_044052-UNOFFICIAL-Z00ED-OMS.zip/download",
-      "md5sum": "cc9178e73af730c14a8945904b1588e3",
-      "datetime": 1512621652,
+      "filename": "lineage-14.1-20180104-UNOFFICIAL-Z00ED",
+      "url": "https://sourceforge.net/projects/android-rom-ota/files/LineageOS-OMS/Z00ED/lineage-14.1-20180104-UNOFFICIAL-Z00ED-OMS.zip/download",
+      "md5sum": "dd4432f3f0c6408bd9b5b2cae0c4f14f",
+      "datetime": 1515099526,
       "romtype": "unofficial",
       "version": "14.1"
     }
